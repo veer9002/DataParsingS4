@@ -5,6 +5,7 @@
 //  Created by Syon on 17/05/18.
 //  Copyright © 2018 Syon. All rights reserved.
 //
+// Now this project is on git
 
 import UIKit
 
